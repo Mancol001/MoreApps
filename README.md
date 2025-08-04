@@ -1,5 +1,5 @@
-## MoreApps
-# By Mancol001 and CyCl0n3 (@Moomerator)
+# MoreApps
+### By Mancol001 and CyCl0n3 (@Moomerator)
 
 
 Welcome to the MoreApps Github page!
